@@ -211,15 +211,8 @@ List the files in the directory you're currently in (which should be home).
 Copy and paste the output below.
 ----------
 
-Adlm			Music			mtec1002
-Adobe			New Unity Project	mtec1002-lab-02
-Applications		Pictures		mtec1002-lab-02.zip
-Desktop			Public			pymel.log
-Documents		QLData			stuff
-Downloads		Things			Library			
-__MACOSX		xgen        MPLABXProjects	
-ipe.properties          Movies			
-isus
+a stuff
+a stuff/hello.txt
 
 ==========
 19. Go up one directory back into your home directory.  Run the following commands exactly to create a compressed archive of the stuff folder.
